@@ -1,2 +1,3 @@
 # weather_app_flutter
-![image](https://github.com/user-attachments/assets/b17c9540-e841-4ae0-89ac-e78f6516aa4c)
+![image](https://github.com/user-attachments/assets/cee3eacf-cc65-4a9c-8845-d5eb0130e1cb)
+
